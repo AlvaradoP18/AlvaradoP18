@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy [Tu Nombre] 👋
 
-<!--
-**AlvaradoP18/AlvaradoP18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" />
 
-Here are some ideas to get you started:
+> Estudiante de **Ingeniería de Software con Inteligencia Artificial**  
+> Apasionado por crear soluciones inteligentes que impacten el mundo real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+- 🔬 Actualmente cursando **Ingeniería de Software con Inteligencia Artificial**
+- 🧠 Me especializo en Machine Learning, Deep Learning, Procesamiento de Lenguaje Natural y Computer Vision
+- 💻 Dominio de Python, TensorFlow, PyTorch, Scikit-learn, FastAPI, Docker y más
+- 🌱 Siempre aprendiendo: LLMs, agentes autónomos, MLOps y arquitectura de sistemas escalables
+- ⚡ Me emociona el futuro de la IA aplicada a salud, educación y sostenibilidad
+
+### 🛠️ Tecnologías & Herramientas
+```text
+Python • TensorFlow • PyTorch • LangChain • Hugging Face • OpenAI API
+FastAPI • Flask • Docker • Git • AWS/GCP • PostgreSQL • MongoDB
+Pandas • NumPy • OpenCV • NLTK • Transformers
